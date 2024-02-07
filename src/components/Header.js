@@ -30,7 +30,7 @@ const Header = () => {
         style={{ backgroundColor: "#040714" }}
       >
         <Link className="navbar-brand text-light" to="/">
-          Disney-Hotstars
+          Disney-Hotstar
         </Link>
         <button
           className="navbar-toggler"
