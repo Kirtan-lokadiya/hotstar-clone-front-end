@@ -1,0 +1,10 @@
+.search-page-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 56px;
+  }
+  
+  .search-results {
+    margin-left: 0;
+  }
+  
